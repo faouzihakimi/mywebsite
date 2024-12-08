@@ -1,2 +1,14 @@
-![Profile Picture](/assets/images/profile_picture.jpg)
+---
+layout: default
+---
+
+![Profile Picture](/assets/images/your-picture.jpg)
+
+# Welcome to My Site
+
+[Projects](/projects) | [Publications](/publications)
+
+## About Me
+
+Brief introduction about yourself here.
 
