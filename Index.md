@@ -1,2 +1,2 @@
-![Profile Picture](/assets/images/your-picture.jpg)
+![Profile Picture](/assets/images/profile_picture.jpg)
 
