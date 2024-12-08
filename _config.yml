@@ -1,4 +1,11 @@
 remote_theme: pages-themes/cayman@v0.2.0
-title: [The title of your site]
+title: My personnal website
 description: [A short description of your site's purpose]
 show_downloads: True
+description: A sweet and responsive theme for GitHub Pages
+colors:
+  gradient_left: "#FF69B4"
+  gradient_right: "#FFB6C1"
+  header: "#FFF"
+  link: "#FF1493"
+  section_title: "#FF69B4"
