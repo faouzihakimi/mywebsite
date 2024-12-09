@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile Picture](/assets/images/profile_picture.jpg)
+![Profile Picture](/assets/images/profile_picture.jpeg)
 
 # Welcome to My Site
 
