@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Profile Picture](/assets/images/profile_picture.jpeg){width="300px"}
+![Profile Picture](/assets/images/profile_picture.jpeg | width=300)
 
 # Welcome to My Site
 
