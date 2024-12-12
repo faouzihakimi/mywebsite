@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<img src="/assets/images/profile_picture.jpeg" width="300" height="300">
+
+![Alt Text](/assets/images/profile_picture.jpeg){width=50%}
 
 # Welcome to My Site
 
