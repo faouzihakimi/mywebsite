@@ -5,7 +5,7 @@ layout: default
 
 
 
-<img src="**path/to/your/image.jpg**" alt="" width="50%">
+<img src="/assets/images/profile_picture.jpeg" alt="" width="50%">
 
 
 # Welcome to My Site
